@@ -1,0 +1,12 @@
+pyglet/
+cocos/
+*.exe
+*.o
+*.h
+__pycache__/
+.DS_Store
+Mission 16/
+Mission 17/
+*.png
+*.jpg
+*.zip
